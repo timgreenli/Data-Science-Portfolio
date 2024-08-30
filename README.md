@@ -1,3 +1,3 @@
 # Data Science Portfolio
 
-- [Cyclistic Bike-Share Analysis Project](https://github.com/timgreenli/Cyclistic-Bike-Share-Analysis)
+- [Cyclistic Bike-Share Analysis Project](https://github.com/timgreenli/Data-Science-Portfolio/Cyclistic-Bike-Share-Analysis)
