@@ -30,19 +30,3 @@ The project is divided into three key parts:
 
 ### Conclusion
 This project provided valuable hands-on experience in building and evaluating a multiple linear regression model, a crucial skill for data science professionals. The insights gained from this model will assist NYC TLC in making data-driven decisions to enhance their operations. The structured approach to this activity mirrors the real-world tasks that data professionals encounter, preparing me for future challenges in the industry.
-
-![box1.png](/images/box1.png)
-
-![Pairplot.png](/images/Pairplot.png)
-
-![Heatmap.png](/images/Heatmap.png)
-
-![Scatter2.png](/images/Scatter2.png)
-
-![Dist of Residuals.png](/images/Dist_of_Residuals.png)
-
-![Scat of Residuals.png](/images/Scat_of_Residuals.png)
-
-![box2.png](/images/box2.png)
-
-![scatter.png](/images/scatter.png)
